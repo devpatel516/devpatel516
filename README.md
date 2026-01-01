@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dev Patel</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50" alt="Header" />
-</p>
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on building scalable web applications.
 - 🌱 I’m currently learning **Advanced Machine Learning and Cloud Computing**.
@@ -43,18 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpatel17207&show_icons=true&theme=radical" alt="Dev's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpatel17207&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpatel17207&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
